@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CafeOrderExample</string>
+    <string name="person_name">Имя пользователя</string>
+    <string name="person_password">пароль пользователя</string>
+    <string name="order">Заказать</string>
+    <string name="wellcome">Добро пожаловать</string>
+    <string name="caffe_image">Изображения кафе</string>
+    <string name="All_fields_must_be_filled">Все поля должны заполненны</string>
+    <string name="greeting_text_to_client">Привет %s! что будете заказывать?</string>
+    <string name="tea_radio_button_text">Чай</string>
+    <string name="cafe_radio_button_text">Кофе</string>
+    <string name="what_to_added_your_order_text">Что добавить в ваш %s?</string>
+    <string name="sugar_checkbox_text">Сахар</string>
+    <string name="milk_check_box_text">Молоко</string>
+    <string name="lemon_check_box_text">Лимон</string>
+    <string name="choose_the_type_drink_text">Выберите вид напитка</string>
+    <string name="tea">Чай</string>
+    <string name="milk">Молоко</string>
+    <string name="sugar">Сахар</string>
+    <string name="lemon">Лимон</string>
+    <string name="coffee">Кофе</string>
+    <string name="default_name">клиент</string>
+    <string name="default_password">пароль</string>
+
+    <string-array name="options_of_coffee">
+        <item>Американо</item>
+        <item>Экспрессо</item>
+        <item>Лате</item>
+    </string-array>
+
+    <string-array name="options_of_tea">
+        <item>Черный</item>
+        <item>Зеленный</item>
+        <item>Красный</item>
+    </string-array>
+</resources>
